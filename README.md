@@ -1,5 +1,5 @@
 # Billing-System
-This Billing System software can used by any company that wants to generate the bills for their customers. 
+This is a Billing System Software with Code , You can use this in your Company.
 
 Concepts:
                          Java Programming:
